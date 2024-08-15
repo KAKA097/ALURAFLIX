@@ -1,11 +1,19 @@
 body {
-    color: rgba(116, 23, 124, 0.308);
-    background: rgb(13, 14, 13);
+    color: rgb(70, 1, 1);
+    background: rgb(250, 255, 250);
     margin: 50px;
 }
 
 header {
-    border-bottom: solid 5px rgb(247, 9, 215);
+    border-bottom: solid 5px rgb(56, 2, 49);
     padding: 20px;
     font-size: 50px;
+}
+
+section {
+    background: rgb(124, 52, 52);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
